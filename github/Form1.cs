@@ -16,5 +16,10 @@ namespace github
         {
             InitializeComponent();
         }
+
+        private void buttonX1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("jjj");
+        }
     }
 }
