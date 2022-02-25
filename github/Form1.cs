@@ -20,6 +20,7 @@ namespace github
         private void buttonX1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("jjj");
+            MessageBox.Show("jjj");
         }
     }
 }
